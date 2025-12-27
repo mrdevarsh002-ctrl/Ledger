@@ -1,0 +1,6 @@
+{
+  "deploy": false,
+  "tasks": {
+    "start": "echo 'Edge functions disabled - using client-side Supabase'"
+  }
+}
