@@ -1,0 +1,10 @@
+# Supabase Configuration
+# This file disables automatic edge function deployment
+
+[functions]
+# Disable automatic edge function deployment
+enabled = false
+
+[api]
+# API is handled client-side
+enabled = true
